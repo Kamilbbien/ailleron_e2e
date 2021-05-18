@@ -54,7 +54,7 @@ exports.config = {
 
     suites: {
         portal: [
-            './testCases/tc.ailleron.js',
+            './testCases/tc.careerPage.js',
         ],
     },
 
